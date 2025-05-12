@@ -8,6 +8,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backstage
     argocd/app-name: backstage-backstage-cluster-new
+    grafana/dashboard-selector: cert-manager
 spec:
   type: service
   owner: development
