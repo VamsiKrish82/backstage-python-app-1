@@ -4,11 +4,12 @@ metadata:
   name: backstage-python-app-1
   description: Python app that displays time - named backstage-python-app-1
   annotations:
-    github.com/project-slug: VamsiKrish82/backstage-python-app-1
+    # github.com/project-slug: VamsiKrish82/backstage-python-app-1
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backstage
     argocd/app-name: backstage-backstage-cluster-new
     grafana/dashboard-selector: cert-manager
+    github.com/project-slug: VamsiKrishna082/backstage-new-application
 spec:
   type: service
   owner: development
