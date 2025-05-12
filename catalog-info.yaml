@@ -3,6 +3,16 @@ kind: Component
 metadata:
   name: backstage-python-app-1
   description: Python app that displays time - named backstage-python-app-1
+  links:
+    - url: https://grafana.tensure.cloud/
+      title: Grafana Dashboard
+      icon: dashboard
+    - url: https://github.com/VamsiKrishna082/backstage-new-application/actions
+      title: GitHub Actions
+      icon: github
+    - url: https://argocd.tensure.cloud/
+      title: Argo CD Console
+      icon: sync
   annotations:
     # github.com/project-slug: VamsiKrish82/backstage-python-app-1
     backstage.io/techdocs-ref: dir:.
