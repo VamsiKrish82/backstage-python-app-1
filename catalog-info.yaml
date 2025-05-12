@@ -6,7 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: VamsiKrish82/backstage-python-app-1
     backstage.io/techdocs-ref: dir:.
-    backstage.io/kubernetes-cluster: backstage-cluster
+    backstage.io/kubernetes-id: backstage
 spec:
   type: service
   owner: development
