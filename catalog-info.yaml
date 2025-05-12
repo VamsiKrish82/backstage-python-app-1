@@ -7,6 +7,7 @@ metadata:
     github.com/project-slug: VamsiKrish82/backstage-python-app-1
     backstage.io/techdocs-ref: dir:.
     backstage.io/kubernetes-id: backstage
+    argocd/app-name: backstage-backstage-cluster-new
 spec:
   type: service
   owner: development
