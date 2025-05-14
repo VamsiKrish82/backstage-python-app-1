@@ -22,5 +22,5 @@ metadata:
     github.com/project-slug: VamsiKrishna082/backstage-new-application
 spec:
   type: service
-  owner: development
+  owner: Cloud
   lifecycle: experimental
