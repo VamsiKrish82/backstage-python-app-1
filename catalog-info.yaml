@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-python-app-1
+  name: backstage-python-app-working
   description: Python app that displays time - named backstage-python-app-1
   links:
     - url: https://grafana.tensure.cloud/
